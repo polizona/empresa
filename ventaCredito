@@ -1,4 +1,4 @@
-CREATE DEFINER=`polizona_97`@`localhost` PROCEDURE `ventaCredito`(in e int, in m int, in n int)
+CREATE DEFINER=`polizona_XX`@`localhost` PROCEDURE `ventaCredito`(in e int, in m int, in n int)
 BEGIN
   DECLARE conta INT;
   DECLARE contados INT;
