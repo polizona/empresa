@@ -1,8 +1,8 @@
 <?PHP
 	$hostname_localhost ="68.70.164.26";
-	$database_localhost ="polizona_97";
-	$username_localhost ="polizona_97";
-	$password_localhost ="Zona-97EsMia";
+	$database_localhost ="polizona_XX";
+	$username_localhost ="polizona_XX";
+	$password_localhost ="tupassword";
 	$json=array();
         include("index.html"); 
 
