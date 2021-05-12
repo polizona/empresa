@@ -4,7 +4,7 @@
 	$username_localhost ="polizona_XX";
 	$password_localhost ="tu_contraseña";
 	$json=array();
-        include("index.html"); 
+        include("index.php"); 
 
 
 //realiza conexion
